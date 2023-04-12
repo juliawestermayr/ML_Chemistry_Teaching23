@@ -1,4 +1,5 @@
-# ML_Chemistry_Teaching23
+# MSC Course on  "Machine Learning: Fundamentals and Applications in Chemistry"
+
 Jupyter notebooks for the Master ML courses at Leipzig University
 
 
